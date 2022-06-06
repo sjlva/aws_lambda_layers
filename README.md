@@ -1,2 +1,13 @@
-# aws_lambda_layers
-A simple TUI for creating python3 zipped lambda layers
+# AWS Lambda Layers (WIP)
+
+## Usage
+
+By typing:
+
+```bash
+./create_aws_layers.sh
+```
+
+A TUI will prompt all the required steps.
+
+![](https://i.imgur.com/vSa74Rh.gif)
