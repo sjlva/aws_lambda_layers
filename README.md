@@ -17,6 +17,6 @@
 ./create_aws_layers.sh
 ```
 
-A TUI will prompt all the required steps.
+3. A TUI will guide you along.
 
 
