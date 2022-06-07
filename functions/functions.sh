@@ -47,7 +47,7 @@ create_layer () {
     cd ..
     rm --recursive --force python
     echo -e "XXX\n100\n Done.\nXXX"
-  } | whiptail --title "Title" --gauge "Please wait" 6 60 0
+  } | whiptail --title "Creating Layers" --gauge "Please wait" 6 60 0
 }
 
 finish_assistant () {
